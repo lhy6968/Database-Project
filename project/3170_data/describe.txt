@@ -1,0 +1,18 @@
+fever
+pain
+weight change
+dropsy
+breathing difficulty
+cough
+expectoration
+hemoptysis
+anorexia
+dyspepsia
+dysphagia
+nausea
+haematemesis
+hematochezia
+jaundice
+paruria
+anemia
+shock

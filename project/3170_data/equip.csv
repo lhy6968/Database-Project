@@ -1,0 +1,206 @@
+,equip_id,equip_name,last_check_date
+0,14327,Trauma disposal cart,2019.11.13
+1,19234,Trauma disposal cart,2019.7.21
+2,11308,Trauma disposal cart,2019.11.7
+3,11082,Trauma disposal cart,2019.5.18
+4,10373,Trauma disposal cart,2019.1.27
+5,12390,anaesthesia machine,2019.10.3
+6,15260,anaesthesia machine,2019.7.4
+7,14430,anaesthesia machine,2019.9.25
+8,17683,anaesthesia machine,2019.1.10
+9,13685,anaesthesia machine,2019.5.18
+10,18370,breathing machine,2019.9.5
+11,19072,breathing machine,2019.8.3
+12,15993,breathing machine,2019.5.3
+13,12034,breathing machine,2019.1.26
+14,19830,breathing machine,2019.12.6
+15,12053,Blood cell analyzer,2019.9.3
+16,18613,Blood cell analyzer,2019.7.4
+17,10215,Blood cell analyzer,2019.1.6
+18,18162,Blood cell analyzer,2019.7.1
+19,15316,Blood cell analyzer,2019.12.4
+20,18687,Differentiation analyzer,2019.7.22
+21,18250,Differentiation analyzer,2019.4.13
+22,19474,Differentiation analyzer,2019.12.24
+23,18621,Differentiation analyzer,2019.7.10
+24,13587,Differentiation analyzer,2019.7.13
+25,13357,ELIASA,2019.12.15
+26,11443,ELIASA,2019.1.23
+27,16978,ELIASA,2019.5.21
+28,12303,ELIASA,2019.3.8
+29,17715,ELIASA,2019.1.10
+30,11778,Microplate Washer,2019.6.15
+31,16134,Microplate Washer,2019.2.7
+32,10682,Microplate Washer,2019.3.11
+33,17859,Microplate Washer,2019.5.11
+34,12004,Microplate Washer,2019.4.14
+35,17857,urine analyzer,2019.9.27
+36,13016,urine analyzer,2019.11.8
+37,14548,urine analyzer,2019.12.5
+38,10018,urine analyzer,2019.3.27
+39,13135,urine analyzer,2019.4.8
+40,16362,ultrasound equipment,2019.3.25
+41,17832,ultrasound equipment,2019.10.22
+42,19591,ultrasound equipment,2019.8.22
+43,17347,ultrasound equipment,2019.11.14
+44,18197,ultrasound equipment,2019.2.21
+45,19895,X-ray apparatus,2019.1.20
+46,18017,X-ray apparatus,2019.9.20
+47,10791,X-ray apparatus,2019.9.17
+48,10429,X-ray apparatus,2019.1.19
+49,11364,X-ray apparatus,2019.12.11
+50,17764,MR,2019.4.11
+51,18287,MR,2019.12.13
+52,10980,MR,2019.10.18
+53,14235,MR,2019.4.24
+54,18469,MR,2019.8.21
+55,14655,operating table,2019.4.5
+56,12570,operating table,2019.7.17
+57,12470,operating table,2019.9.22
+58,10986,operating table,2019.6.21
+59,11627,operating table,2019.2.11
+60,12635,operating table,2019.10.14
+61,15096,operating table,2019.4.5
+62,16832,operating table,2019.1.25
+63,12997,operating table,2019.4.27
+64,16969,operating table,2019.7.5
+65,16231,operating table,2019.1.19
+66,15825,operating table,2019.2.3
+67,10172,operating table,2019.1.6
+68,19136,operating table,2019.6.18
+69,15079,operating table,2019.3.15
+70,16338,operating table,2019.7.21
+71,17540,operating table,2019.3.4
+72,15240,operating table,2019.8.13
+73,17784,operating table,2019.4.21
+74,19409,operating table,2019.9.8
+75,19195,operating table,2019.3.23
+76,17310,operating table,2019.10.3
+77,15218,operating table,2019.9.2
+78,16604,operating table,2019.2.24
+79,10827,operating table,2019.8.27
+80,13810,operating table,2019.11.5
+81,18252,operating table,2019.4.19
+82,16175,operating table,2019.9.23
+83,17346,operating table,2019.12.20
+84,18823,operating table,2019.11.10
+85,12610,operating table,2019.3.4
+86,13919,operating table,2019.3.18
+87,10342,operating table,2019.6.10
+88,12777,operating table,2019.8.4
+89,12070,operating table,2019.1.15
+90,19406,operating table,2019.9.23
+91,10166,operating table,2019.4.25
+92,18414,operating table,2019.11.17
+93,10520,operating table,2019.9.5
+94,10037,operating table,2019.11.2
+95,19751,operating table,2019.6.17
+96,18799,operating table,2019.9.1
+97,18172,operating table,2019.9.22
+98,18396,operating table,2019.2.25
+99,13287,operating table,2019.12.9
+100,19383,operating table,2019.1.5
+101,11185,operating table,2019.12.5
+102,15635,operating table,2019.11.22
+103,18593,operating table,2019.11.15
+104,11509,operating table,2019.2.8
+105,15728,operating-lamp,2019.8.13
+106,19928,operating-lamp,2019.8.17
+107,11175,operating-lamp,2019.3.7
+108,16302,operating-lamp,2019.3.17
+109,10003,operating-lamp,2019.11.9
+110,19434,operating-lamp,2019.9.27
+111,19999,operating-lamp,2019.1.7
+112,11305,operating-lamp,2019.4.6
+113,16705,operating-lamp,2019.12.7
+114,10870,operating-lamp,2019.1.6
+115,13408,operating-lamp,2019.9.13
+116,13250,operating-lamp,2019.2.20
+117,16215,operating-lamp,2019.2.8
+118,16852,operating-lamp,2019.4.23
+119,16930,operating-lamp,2019.3.10
+120,15481,operating-lamp,2019.2.15
+121,11735,operating-lamp,2019.9.16
+122,13683,operating-lamp,2019.4.5
+123,11296,operating-lamp,2019.12.13
+124,16438,operating-lamp,2019.9.19
+125,13521,operating-lamp,2019.6.12
+126,15827,operating-lamp,2019.4.15
+127,12621,operating-lamp,2019.6.24
+128,10879,operating-lamp,2019.1.6
+129,14209,operating-lamp,2019.1.20
+130,16478,operating-lamp,2019.3.16
+131,19217,operating-lamp,2019.12.9
+132,19231,operating-lamp,2019.11.8
+133,11624,operating-lamp,2019.4.3
+134,19715,operating-lamp,2019.3.13
+135,11957,operating-lamp,2019.7.25
+136,19531,operating-lamp,2019.11.1
+137,12183,operating-lamp,2019.4.10
+138,10665,operating-lamp,2019.4.21
+139,13203,operating-lamp,2019.9.12
+140,13757,operating-lamp,2019.11.22
+141,12072,operating-lamp,2019.4.22
+142,17228,operating-lamp,2019.10.7
+143,18899,operating-lamp,2019.4.18
+144,10207,operating-lamp,2019.4.3
+145,12693,operating-lamp,2019.12.10
+146,14950,operating-lamp,2019.8.2
+147,17096,operating-lamp,2019.3.12
+148,12453,operating-lamp,2019.4.8
+149,17253,operating-lamp,2019.12.2
+150,19639,operating-lamp,2019.7.7
+151,16700,operating-lamp,2019.11.5
+152,19528,operating-lamp,2019.10.16
+153,19496,operating-lamp,2019.11.4
+154,18324,operating-lamp,2019.11.4
+155,16043,monito,2019.10.3
+156,13475,monito,2019.10.23
+157,12968,monito,2019.4.26
+158,11351,monito,2019.5.27
+159,11561,monito,2019.7.20
+160,14177,monito,2019.5.23
+161,11253,monito,2019.4.19
+162,14763,monito,2019.6.7
+163,18884,monito,2019.2.8
+164,10595,monito,2019.10.25
+165,19388,monito,2019.9.9
+166,10566,monito,2019.10.15
+167,11048,monito,2019.7.23
+168,14470,monito,2019.10.5
+169,16689,monito,2019.8.23
+170,15206,monito,2019.4.2
+171,16486,monito,2019.10.18
+172,12632,monito,2019.1.3
+173,16687,monito,2019.6.7
+174,14309,monito,2019.7.26
+175,18869,monito,2019.12.21
+176,15973,monito,2019.12.6
+177,10836,monito,2019.4.25
+178,18793,monito,2019.2.18
+179,14525,monito,2019.11.7
+180,19694,monito,2019.7.19
+181,17556,monito,2019.5.4
+182,15981,monito,2019.1.6
+183,16208,monito,2019.3.15
+184,19183,monito,2019.1.8
+185,19661,monito,2019.12.26
+186,16756,monito,2019.1.20
+187,19159,monito,2019.12.25
+188,17558,monito,2019.10.6
+189,16865,monito,2019.5.12
+190,14848,monito,2019.5.15
+191,17618,monito,2019.7.20
+192,12389,monito,2019.10.12
+193,12681,monito,2019.4.2
+194,10686,monito,2019.11.19
+195,13064,monito,2019.7.13
+196,16873,monito,2019.4.1
+197,17596,monito,2019.8.9
+198,15533,monito,2019.10.8
+199,19101,monito,2019.5.19
+200,14561,monito,2019.11.2
+201,13104,monito,2019.6.1
+202,13649,monito,2019.2.23
+203,13105,monito,2019.5.6
+204,11270,monito,2019.10.20

@@ -1,0 +1,1001 @@
+,doctor_id,name,dep_name,gender,type,phone,salary
+0,123308,Crown,Gynecology,male,nurse,13110337849,7000
+1,100336,Alison,Pediatrics,male,nurse,18840641153,8000
+2,139909,Monroe,Infection,male,doctor,17682071983,16000
+3,105759,Praised,Endocrinology,female,doctor,13811753766,40000
+4,186386,Henry,Neurosurgery,female,nurse,18864495393,7000
+5,122430,Royal,Obstetrics,male,doctor,13847147721,47000
+6,163933,Quinn,Hematology,female,nurse,18357323646,6000
+7,161897,Questa,Respiratory Medicine,female,nurse,13958551012,5000
+8,174589,Olga,Pediatrics,female,doctor,13628068996,18000
+9,153472,Luminous,Obstetrics,female,doctor,18705618034,24000
+10,110309,Edlyn,Orthopedics,male,nurse,13880570634,10000
+11,179105,Eaton,Burns,female,doctor,13916009925,21000
+12,165628,Stan,Gynecology,male,nurse,17571341583,8000
+13,147111,Bridget,Hepatological Surgery,male,nurse,13670465054,7000
+14,192262,Genevieve,Dermatology,male,nurse,18398134183,9000
+15,180989,Ambitious,Gynecology,male,nurse,13856284346,7000
+16,131287,Tony,Neurosurgery,female,nurse,13122260350,5000
+17,193779,Meadow,Hepatological Surgery,female,doctor,19020799886,24000
+18,112490,Imogen,Cardiology,female,nurse,18739543979,6000
+19,115249,Seymour,Pediatrics,female,nurse,17508918104,9000
+20,106986,Hale,Otolaryngolog,male,nurse,17541068350,9000
+21,115737,Steward,Gynecology,male,doctor,19035332006,33000
+22,168223,Eldon,Obstetrics,male,doctor,13893205966,43000
+23,192595,Eliza,Respiratory Medicine,male,nurse,17611966206,8000
+24,114732,Hope,Respiratory Medicine,female,doctor,18393556400,27000
+25,118028,Wynne,Dermatology,male,doctor,18735013710,34000
+26,140476,Rose,Gynecology,female,nurse,13169283559,8000
+27,111726,Mirabelle,Neurosurgery,female,nurse,17623111701,10000
+28,141648,Healthy,Gastroenterology,male,nurse,19041097386,9000
+29,131178,Beth,Hepatological Surgery,female,doctor,17647853090,41000
+30,169509,Freeman,Urinary Surgery,male,doctor,17546357535,11000
+31,191541,Aileen,Dermatology,female,nurse,13693829832,7000
+32,134899,Edan,Gynecology,female,nurse,13604796548,10000
+33,101628,Anthea,Neurology,female,doctor,13838888827,50000
+34,186802,Chief,Orthopedics,female,doctor,17530219823,13000
+35,152745,Nourishing,Urinary Surgery,female,nurse,13900065876,8000
+36,111478,Farley,Orthopedics,female,doctor,13880017580,21000
+37,185748,Erwin,Hepatological Surgery,female,nurse,18863682400,5000
+38,179664,Rory,Pediatrics,male,doctor,13864150703,36000
+39,161257,Rhea,Urinary Surgery,female,nurse,13839349698,10000
+40,162811,Ramsey,Infection,female,doctor,17539161738,44000
+41,149887,Brittany,Otolaryngolog,male,nurse,13917688641,9000
+42,154987,Helena,Gynecology,male,nurse,13133736643,6000
+43,114830,Swift,Dermatology,female,doctor,18365434796,21000
+44,137832,Alma,Hematology,female,nurse,18372440431,8000
+45,146735,Errol,Urinary Surgery,male,doctor,17660867020,31000
+46,101081,Luke,Orthopedics,male,doctor,18310601291,24000
+47,166951,Rachel,Urinary Surgery,male,doctor,18870574295,32000
+48,195551,Orlantha,Obstetrics,female,doctor,17510274984,43000
+49,106402,Berta,Infection,male,doctor,18719139898,48000
+50,168191,Marta,Gynecology,female,nurse,13193887181,6000
+51,102910,Elton,Dermatology,male,doctor,18822386091,26000
+52,171688,Emery,Gastroenterology,male,nurse,13813510653,5000
+53,157911,Teresa,Neurology,male,doctor,17654879857,37000
+54,119095,Ivar,Gastroenterology,male,nurse,18883072059,8000
+55,124042,Ardent,Burns,female,doctor,13831093954,23000
+56,153674,Millicent,Dermatology,female,doctor,17518327328,15000
+57,101755,Douglas,Pediatrics,male,nurse,18783404171,9000
+58,134089,Karen,Endocrinology,male,doctor,18305877845,12000
+59,109522,Long-Beard,Hematology,female,nurse,13696567191,8000
+60,153678,Stranger,Neurology,male,nurse,13637115822,9000
+61,103474,Lancelot,Gastroenterology,male,nurse,18735557306,10000
+62,180325,Gideon,Dermatology,female,doctor,18730108550,23000
+63,132063,Shirley,Infection,male,doctor,13898154656,44000
+64,122749,Kate,Cardiology,female,nurse,13672611007,10000
+65,156349,Valley,Pediatrics,male,doctor,13928888116,35000
+66,142062,Thelma,General Surgery,male,doctor,18893438522,39000
+67,142686,Halsey,Hepatological Surgery,female,doctor,13658333077,27000
+68,119647,Guide,Stomatology,female,nurse,18741762745,6000
+69,185203,Norris,Hematology,female,nurse,18779071255,6000
+70,104828,Maureen,Hepatological Surgery,male,doctor,18746947843,12000
+71,131188,Hartley,Stomatology,male,nurse,18890016332,7000
+72,161522,Davin,Gynecology,female,nurse,13154208230,6000
+73,196461,Rosemary,Pediatrics,male,doctor,19044288920,30000
+74,156103,Dependable,Respiratory Medicine,female,nurse,13909471564,10000
+75,128598,Moira,Stomatology,female,doctor,18396101719,26000
+76,153504,Walter,Urologic,female,doctor,13961720394,30000
+77,166377,Life,General Surgery,female,doctor,13150133057,49000
+78,122409,Ellen,Cardiology,female,doctor,13812539681,13000
+79,118886,Honour,Stomatology,male,nurse,17533025743,9000
+80,169447,Hadden,Respiratory Medicine,male,nurse,13920381479,6000
+81,179794,Zachary,Gastroenterology,female,nurse,18395752637,5000
+82,117181,Gwen,Dermatology,female,doctor,17597270244,21000
+83,178027,God-like,Neurology,male,nurse,19030541312,10000
+84,119050,Gardener,Obstetrics,female,nurse,19006330311,9000
+85,159826,Justin,Cardiology,male,doctor,18399566623,22000
+86,145924,Marcus,Respiratory Medicine,female,nurse,13838141251,8000
+87,169685,Agnes,Dermatology,male,nurse,13160465233,5000
+88,108619,Jill,Obstetrics,female,doctor,17671199884,23000
+89,101708,Kyle,Obstetrics,female,doctor,13633711080,37000
+90,139688,Nicole,General Surgery,female,nurse,19067142903,6000
+91,104817,Beatrice,Burns,female,nurse,19051000741,7000
+92,118421,Danielle,Dermatology,male,nurse,18372091666,10000
+93,177495,Isaiah,Endocrinology,male,doctor,13909035536,35000
+94,151588,Land,Gastroenterology,female,doctor,13925175802,36000
+95,156220,Russell,Stomatology,female,nurse,13134317293,7000
+96,189896,Harland,Endocrinology,male,doctor,13694610750,36000
+97,149300,Wolf,Hepatological Surgery,female,nurse,19046929684,7000
+98,174422,Donald,Dermatology,female,nurse,18367360458,7000
+99,182743,Imagine,Pediatrics,female,doctor,18321422118,42000
+100,197844,Silver,Neurology,male,doctor,13973979243,15000
+101,130202,Blair,General Surgery,male,nurse,19097938389,5000
+102,183331,Blueberry,General Surgery,female,nurse,19059463533,5000
+103,138527,Melinda,Urinary Surgery,male,doctor,13938314433,43000
+104,146069,Tina,Hepatological Surgery,male,nurse,19046965798,6000
+105,138050,Leslie,Hematology,female,doctor,17685066390,50000
+106,192258,Garret,Obstetrics,male,doctor,13928281578,45000
+107,119662,Percy,Hematology,male,nurse,18857870760,5000
+108,169931,Power,Dermatology,male,doctor,13147103059,26000
+109,151528,Trina,Hematology,male,nurse,18739834789,9000
+110,127749,Uriah,Dermatology,female,doctor,18381791557,18000
+111,169378,Sharon,Orthopedics,female,nurse,17632648230,5000
+112,171051,Irvin,Dermatology,male,nurse,19097102885,10000
+113,158272,Shamus,Burns,male,doctor,18397329009,41000
+114,168816,Denley,Urinary Surgery,female,doctor,13687024817,50000
+115,134813,Malcolm,Urologic,female,nurse,18891265865,5000
+116,119357,Halbert,Pediatrics,female,nurse,18356978804,8000
+117,117900,Beata,Gastroenterology,male,doctor,13816294342,33000
+118,158303,Maxine,Hematology,male,nurse,17522059980,10000
+119,155180,Flower-Like,Stomatology,male,nurse,13110867757,6000
+120,198492,Jason,Orthopedics,female,nurse,13663111287,5000
+121,138772,Sterling,Respiratory Medicine,female,doctor,13623111484,31000
+122,196765,Polly,Endocrinology,male,nurse,17585598448,8000
+123,152610,Fairy,Respiratory Medicine,female,nurse,13638876251,8000
+124,196794,Daley,Cardiology,female,doctor,13931059608,47000
+125,126929,Herdsman,Neurosurgery,male,doctor,18370686868,33000
+126,172760,Vanessa,Hematology,male,nurse,13816866367,6000
+127,139634,Talia,Infection,female,doctor,18780351930,42000
+128,121617,Trixie,Hematology,male,doctor,13652363067,17000
+129,105236,Rosalie,Gynecology,female,nurse,13828457245,6000
+130,166607,Ernestine,Gynecology,female,nurse,13641060516,10000
+131,155329,Fannie,Orthopedics,male,doctor,13629949991,20000
+132,115103,Bianca,Gastroenterology,female,doctor,13904407808,49000
+133,115846,Eighth,Urologic,female,doctor,18812935403,28000
+134,143007,Earth,Gastroenterology,male,doctor,13969419928,22000
+135,181804,Renee,Cardiology,female,doctor,13656656173,22000
+136,190196,Caretaker,Gynecology,female,doctor,13877555548,18000
+137,103682,Nora,Neurosurgery,male,nurse,17575120961,8000
+138,118429,Gerard,Endocrinology,female,doctor,13994257890,21000
+139,154225,Holy,Cardiology,male,nurse,19091193591,6000
+140,134655,Rolf,Urologic,female,nurse,19024241042,7000
+141,101946,Gaye,Dermatology,female,doctor,17592384240,27000
+142,151205,Beauty,Dermatology,male,doctor,13844568637,35000
+143,139460,Drake,Otolaryngolog,male,nurse,19045703020,10000
+144,155963,Sebastian,Urologic,female,doctor,13831379623,30000
+145,176538,Ferdinand,General Surgery,female,doctor,19063803795,31000
+146,146537,Light,Obstetrics,female,nurse,17625302744,9000
+147,156485,Leonard,General Surgery,male,doctor,13812502944,45000
+148,155662,Female,Urologic,male,nurse,18713158848,8000
+149,114578,Awe-Inspiring,Stomatology,male,doctor,18755300722,15000
+150,192079,Eve,Endocrinology,female,doctor,17554526757,21000
+151,142889,Kenyon,Hepatological Surgery,male,nurse,18802732994,9000
+152,168181,Wilda,Neurosurgery,male,nurse,13857841976,5000
+153,177651,Elmer,Respiratory Medicine,female,doctor,13159714854,42000
+154,133768,Guy,Pediatrics,female,doctor,17511860821,45000
+155,128460,Pure,Gynecology,male,nurse,18313229158,5000
+156,104361,Flame,Infection,female,doctor,19085805924,21000
+157,166414,Harris,Respiratory Medicine,female,nurse,18325874180,9000
+158,131263,Driscoll,Burns,male,doctor,13686157978,46000
+159,135184,Dudley,Stomatology,female,doctor,17698494883,22000
+160,157273,Winifred,Stomatology,male,nurse,18817286990,8000
+161,171654,Blessed,Hematology,male,nurse,17645943546,5000
+162,135062,Harlan,Infection,female,doctor,13942923031,45000
+163,149500,Island,Neurosurgery,female,nurse,13122961980,8000
+164,128191,Maia,Endocrinology,female,nurse,19060439999,5000
+165,169038,Deborah,Gynecology,female,nurse,13972694851,8000
+166,124316,Farmer,Neurology,female,doctor,18399681955,14000
+167,102487,Udolf,Urologic,female,nurse,19010665480,7000
+168,164019,Flourishing,Burns,male,doctor,19039499990,50000
+169,188040,Farrell,Obstetrics,male,doctor,18824379627,28000
+170,139877,Dominica,Otolaryngolog,female,doctor,17552359630,46000
+171,134327,Kenneth,Gynecology,female,doctor,18724793837,36000
+172,109559,Desired,Gastroenterology,male,nurse,18899769303,8000
+173,108808,Immortal,Respiratory Medicine,male,doctor,18706171993,32000
+174,167101,Ann,Urinary Surgery,male,doctor,13602577166,43000
+175,128481,Udele,Gastroenterology,female,nurse,18709967518,8000
+176,185249,Elvis,Gynecology,male,doctor,13818396890,38000
+177,107876,Elvira,Pediatrics,male,nurse,13605154286,5000
+178,122669,Lane,Hepatological Surgery,male,doctor,13140215822,49000
+179,171245,Milburn,Orthopedics,female,doctor,18863622781,23000
+180,103931,Lucas,Dermatology,male,nurse,18311560980,9000
+181,193772,Lacey,Burns,male,nurse,18335991861,6000
+182,158658,Kevin,Urinary Surgery,female,doctor,17522668697,12000
+183,122558,Richard,Infection,female,nurse,18736569552,10000
+184,178768,Spirited,Dermatology,female,doctor,13827911656,21000
+185,119625,Mary,Gynecology,male,doctor,19001274661,18000
+186,174117,Jasmine,Gynecology,female,nurse,18708138983,5000
+187,100921,Strong,Endocrinology,female,doctor,18727568379,23000
+188,125224,Jeremy,Hepatological Surgery,male,doctor,13693123583,32000
+189,174212,Lorena,Cardiology,male,nurse,18897458197,10000
+190,193120,Sean,Endocrinology,male,doctor,18800677710,23000
+191,177001,Miranda,Urinary Surgery,male,doctor,18738048497,45000
+192,196012,Naomi,Orthopedics,male,nurse,18307115315,8000
+193,119851,Jeremiah,Obstetrics,male,nurse,13946533829,6000
+194,112534,Valiant,Dermatology,male,doctor,17540491009,16000
+195,100188,Hanley,Gastroenterology,female,nurse,13843845484,9000
+196,169239,Amber,Urologic,male,doctor,19054946864,17000
+197,133301,Emmanuel,Otolaryngolog,female,doctor,13815715267,39000
+198,131712,Nobleman,Respiratory Medicine,female,nurse,13999260223,6000
+199,153656,Primrose,Neurology,male,nurse,17661637566,8000
+200,159989,Lolita,Urologic,male,doctor,18713727073,19000
+201,132637,Morgan,Infection,male,nurse,17516051338,8000
+202,196138,Moorish,Neurology,male,doctor,18312363355,39000
+203,158962,Kathy,Urinary Surgery,male,doctor,13903216885,12000
+204,154897,Travers,Otolaryngolog,female,nurse,13812307090,6000
+205,105772,Hugo,Dermatology,male,doctor,13145523545,11000
+206,195940,Bonnie,General Surgery,male,nurse,18717773390,8000
+207,165320,Phoebe,Hematology,male,nurse,13187937334,10000
+208,106205,Kathleen,Hepatological Surgery,male,nurse,13983492776,7000
+209,177520,Ada,Infection,male,doctor,18866869248,22000
+210,135296,Luna,Neurosurgery,male,nurse,17600561584,6000
+211,166163,Conqueror,Stomatology,female,doctor,19084870321,45000
+212,164804,Delmar,Dermatology,female,doctor,18845403721,41000
+213,118195,Wealthy,Orthopedics,male,nurse,18829245534,6000
+214,190646,Kurt,Burns,female,doctor,19092286865,26000
+215,197630,Ramona,Urinary Surgery,female,nurse,13123990547,6000
+216,181640,Fedora,Cardiology,male,doctor,18340604554,38000
+217,188675,Angelica,Neurology,female,doctor,18814232543,21000
+218,109733,Sheridan,Urologic,male,doctor,17623435553,48000
+219,142150,Holly,Pediatrics,female,doctor,18766612587,50000
+220,112120,Ian,Stomatology,female,nurse,18843139346,10000
+221,185729,Hortense,Urinary Surgery,male,doctor,13968726345,19000
+222,156594,Lyndon,Respiratory Medicine,male,doctor,13159396948,27000
+223,114964,Lee,Endocrinology,female,doctor,18816389581,14000
+224,105592,Grey,Urinary Surgery,male,doctor,18733460099,36000
+225,164539,Kendrick,Gastroenterology,male,nurse,18838110465,7000
+226,110534,Trix,Endocrinology,male,nurse,17657826164,7000
+227,104657,Irene,Neurology,male,nurse,17560366378,9000
+228,151586,Leon,Cardiology,male,doctor,18837582067,49000
+229,154103,Doris,Hepatological Surgery,female,doctor,13128657130,27000
+230,107495,Commander,Gastroenterology,female,nurse,18306425831,9000
+231,147805,Jeffrey,Neurosurgery,female,doctor,13634496430,29000
+232,170853,Neal,Dermatology,male,nurse,18305220966,6000
+233,179281,Paul,Pediatrics,male,nurse,17681942703,5000
+234,180438,Natalie,Dermatology,female,nurse,17620804615,8000
+235,146264,Trista,Dermatology,female,nurse,13806885228,6000
+236,145176,Evan,Stomatology,male,nurse,18381109768,10000
+237,150386,Sabrina,Endocrinology,female,nurse,19042957721,6000
+238,136102,Judy,Gastroenterology,female,doctor,13127947897,49000
+239,191271,Diane,Cardiology,female,nurse,13696040820,7000
+240,178287,Roswell,Orthopedics,male,doctor,13689015724,33000
+241,148100,Small,Pediatrics,female,doctor,13686775192,32000
+242,143016,Archer,Pediatrics,female,doctor,19054666370,49000
+243,172229,Phineas,Obstetrics,male,doctor,19073601385,23000
+244,118702,Laura,Urologic,male,doctor,18825067762,46000
+245,192800,Emily,General Surgery,female,doctor,13626948731,20000
+246,142864,Melanie,Urinary Surgery,female,doctor,18338779247,14000
+247,169924,Eloise,Hepatological Surgery,female,nurse,19033550888,8000
+248,188015,Rowena,Endocrinology,male,nurse,13150003226,9000
+249,154036,Virginia,Obstetrics,male,nurse,17637030372,10000
+250,133948,Linette,Neurology,female,nurse,13835737878,9000
+251,172618,Fiery,Stomatology,male,doctor,18760199619,12000
+252,112606,Zelda,Neurosurgery,female,doctor,18759701931,12000
+253,155786,Lilah,Gastroenterology,male,doctor,17527174872,34000
+254,142373,Amaryllis,Neurology,female,nurse,18793499116,10000
+255,133982,Quenby,Hematology,female,doctor,18761223101,11000
+256,157000,Red,Stomatology,male,doctor,13675504942,40000
+257,161760,Jonathan,Burns,male,doctor,19080295799,18000
+258,196395,Sinclair,Gastroenterology,male,nurse,13919740268,6000
+259,196076,Edeline,General Surgery,female,doctor,13663832816,40000
+260,186044,Darrel,Neurology,female,doctor,13905891354,24000
+261,177106,Theodore,Dermatology,male,doctor,17664436648,19000
+262,193246,Edgar,Stomatology,female,nurse,13846637531,8000
+263,166720,Ingrid,Stomatology,male,doctor,18384875036,25000
+264,139158,Admirable,Stomatology,male,doctor,18398278460,36000
+265,136478,Thomasina,Cardiology,male,doctor,18724458926,37000
+266,129106,Edana,Dermatology,male,doctor,18754020512,39000
+267,126629,Sirena,Otolaryngolog,female,nurse,13905856672,8000
+268,122219,Ward,Infection,male,nurse,13643136522,9000
+269,138702,Ruth,Hepatological Surgery,female,doctor,19087981084,48000
+270,108442,Judith,Respiratory Medicine,male,doctor,13982253799,24000
+271,139223,Landry,Pediatrics,female,nurse,13694119233,6000
+272,132075,Irving,Otolaryngolog,male,nurse,18739848468,5000
+273,155208,Harold,Infection,male,nurse,18709686875,9000
+274,176626,Eugene,Pediatrics,female,nurse,17697090084,5000
+275,121095,Gift-Brave,Gastroenterology,male,doctor,13183311312,11000
+276,182544,Joey,Cardiology,female,doctor,17589991092,44000
+277,147937,Bess,Infection,male,nurse,13608915521,5000
+278,130293,Ellery,Neurosurgery,male,doctor,18893008756,34000
+279,186522,Frida,Obstetrics,male,nurse,18835408650,7000
+280,171999,Finbar,Hematology,female,nurse,13688059837,6000
+281,175602,Emeline,Obstetrics,female,doctor,17681144540,15000
+282,166772,Bella,Pediatrics,female,nurse,13945312201,9000
+283,197948,Vania,Hematology,female,nurse,18778338935,9000
+284,147061,Matthew,Hematology,female,nurse,18899522515,7000
+285,182393,Gardener,Dermatology,female,nurse,17555403223,5000
+286,175311,Youthful,Cardiology,female,nurse,13907825420,6000
+287,159122,Dragon,Obstetrics,male,doctor,18354138316,25000
+288,157540,Cunning,General Surgery,female,doctor,17589606125,14000
+289,162118,Deirdre,Obstetrics,female,nurse,17529847348,6000
+290,193824,Salena,Hematology,male,doctor,17681560708,22000
+291,133789,Alarice,Stomatology,female,doctor,13955278022,31000
+292,152554,Lea,Infection,male,nurse,18856378228,8000
+293,100883,Truman,Burns,male,nurse,18328594752,10000
+294,163893,Mighty,Urologic,male,doctor,19012623646,14000
+295,114230,Just,Neurosurgery,male,nurse,18728867898,6000
+296,178967,Agatha,Otolaryngolog,male,nurse,17618579002,9000
+297,187365,Industrious,General Surgery,female,doctor,13830403223,33000
+298,128267,Seeds,Pediatrics,female,doctor,13632305953,39000
+299,121307,Julie,Pediatrics,female,nurse,13146754749,5000
+300,183434,Hayley,Pediatrics,female,doctor,17628158574,50000
+301,144997,Vincent,Gastroenterology,female,nurse,17536428808,7000
+302,130269,Darell,Burns,female,nurse,18379517453,10000
+303,133405,Kerwin,Hepatological Surgery,male,nurse,13191270412,5000
+304,145549,Darian,Hepatological Surgery,male,doctor,13186400243,43000
+305,160941,Lion-like,Urinary Surgery,male,doctor,18306971977,48000
+306,131108,Lincoln,Orthopedics,female,nurse,17563678932,6000
+307,177180,Gale,Pediatrics,female,doctor,18758475166,16000
+308,117316,Wayne,Orthopedics,male,doctor,18311368057,13000
+309,158767,Sarah,Cardiology,male,nurse,13143786954,8000
+310,181288,Astrid,Otolaryngolog,female,doctor,17696629403,45000
+311,136093,Una,General Surgery,female,nurse,18820413575,5000
+312,166848,Myrtle,Hematology,female,doctor,13613659941,49000
+313,120108,Jacob,Endocrinology,female,nurse,17520846860,7000
+314,175932,Sea,Pediatrics,male,doctor,17581840795,12000
+315,100986,Plains,Infection,female,nurse,17672712285,9000
+316,142139,Karena,Urologic,male,nurse,17568204736,7000
+317,119896,Jasper,Pediatrics,female,doctor,13658467184,21000
+318,142650,Heath,Burns,male,doctor,13979639287,24000
+319,148428,Giles,Infection,female,nurse,13195509653,7000
+320,189437,Myra,Urinary Surgery,female,nurse,13975677138,6000
+321,102005,Hilda,Urologic,male,nurse,18837603380,7000
+322,133299,Hector,Urinary Surgery,male,doctor,13667429080,14000
+323,145339,Dora,Hematology,female,nurse,13646305555,5000
+324,122321,Edwina,Gastroenterology,female,nurse,13860858430,8000
+325,187215,Leah,Stomatology,female,doctor,17561974633,33000
+326,103151,Homer,Urologic,female,doctor,18881712225,40000
+327,104496,Eugenia,Gynecology,male,nurse,13985657170,8000
+328,101533,Serpent,Hepatological Surgery,female,doctor,13183348941,23000
+329,116428,Montgomery,Urinary Surgery,male,doctor,17545841890,38000
+330,124697,Kit,Pediatrics,female,doctor,18303490899,28000
+331,111099,Gaiety,Otolaryngolog,female,nurse,18702027631,6000
+332,132574,Eleanor,Urinary Surgery,male,doctor,19086836159,34000
+333,121640,Rodney,Neurology,male,doctor,13612191401,24000
+334,167773,Timothy,Gastroenterology,female,nurse,18821795003,9000
+335,195807,Kacey,Otolaryngolog,female,nurse,18862827367,7000
+336,156946,Oliver,Respiratory Medicine,male,nurse,13653042182,8000
+337,178615,Powerful,Stomatology,female,doctor,13191449947,16000
+338,125343,Prudent,Dermatology,female,nurse,13683483012,6000
+339,195013,Fergus,Gynecology,male,nurse,17500167089,7000
+340,175997,Song-Thrush,Cardiology,female,nurse,13698833183,5000
+341,184262,Sapphire,Endocrinology,female,nurse,13862344278,6000
+342,100804,Iris,Hematology,male,doctor,13179895957,46000
+343,110046,Megan,Neurology,female,nurse,17539869307,8000
+344,132029,Kenway,Dermatology,male,doctor,17633523597,24000
+345,154429,Julia,Obstetrics,male,doctor,17572016204,22000
+346,177898,Blanche,Gynecology,female,doctor,13142224656,42000
+347,181369,Harley,Neurology,male,nurse,18367080628,9000
+348,147887,Magdalene,Stomatology,female,doctor,17651745833,43000
+349,151959,Gale,Urinary Surgery,male,doctor,13112815599,48000
+350,148766,Owen,General Surgery,female,doctor,13976975497,36000
+351,158812,Willette,Endocrinology,female,doctor,13654055015,50000
+352,190773,Daniel,Gynecology,female,nurse,17547256116,5000
+353,138246,Kiefer,Pediatrics,female,doctor,19091511050,30000
+354,182094,Simona,Obstetrics,female,nurse,18703680649,9000
+355,131617,Eda,Cardiology,male,doctor,17504355013,43000
+356,162955,Elaine,Neurology,male,nurse,17665233256,6000
+357,157083,Daphne,Dermatology,male,nurse,13689538992,6000
+358,148660,Zelene,Obstetrics,female,nurse,13836646168,8000
+359,196827,Walton,Gynecology,male,nurse,18758869902,6000
+360,130653,Frasier,Burns,female,nurse,18846717457,5000
+361,113919,Miriam,Cardiology,male,nurse,13969269270,5000
+362,140657,Sharp,Respiratory Medicine,male,nurse,13807650487,6000
+363,110903,Wendy,Respiratory Medicine,female,doctor,19084105462,29000
+364,197263,Wanda,Burns,female,nurse,17503633082,7000
+365,177815,Fleming,Hematology,male,nurse,17508490932,5000
+366,139456,Honey,General Surgery,female,nurse,17531369939,9000
+367,179884,Orson,Cardiology,female,nurse,18385356961,5000
+368,110101,Anne,Infection,male,nurse,18316735859,10000
+369,189532,Egan,General Surgery,male,nurse,13947817986,9000
+370,114644,Des,Neurology,male,doctor,17619610299,22000
+371,154968,Elsie,Neurology,male,nurse,18794005049,9000
+372,190961,Stephen,Pediatrics,female,nurse,17520584028,5000
+373,198655,Kirby,Infection,female,nurse,13614878640,10000
+374,167524,Patricia,Orthopedics,female,doctor,17647261612,48000
+375,129037,Larina,Neurology,female,nurse,13832961158,8000
+376,176434,Gerret,Urologic,male,nurse,17510230578,8000
+377,128083,Jocelyn,Neurosurgery,male,nurse,18729901613,5000
+378,195081,Heroine,Endocrinology,male,nurse,17640833251,8000
+379,113426,Elliott,Dermatology,male,nurse,17541157486,5000
+380,150310,Lamont,Hepatological Surgery,male,doctor,19010654554,12000
+381,196675,Free,Gynecology,female,nurse,17587346290,10000
+382,114095,Wealthy,Urologic,male,nurse,13944388178,6000
+383,187441,Pleasure,Burns,male,nurse,17513192340,5000
+384,187484,Fresh,Neurology,male,doctor,18803175459,20000
+385,168278,Phyllis,Dermatology,male,nurse,13911612284,6000
+386,189967,Larissa,Hematology,female,nurse,17664490098,9000
+387,135766,Respected,Neurology,female,doctor,17510284546,41000
+388,158791,Pledge,Obstetrics,male,doctor,18799299929,23000
+389,119106,Martha,Respiratory Medicine,female,doctor,17666251971,16000
+390,163740,Champion,Gastroenterology,male,doctor,17677689960,33000
+391,138525,Honor,Dermatology,male,doctor,17605578322,12000
+392,131004,Vivianne,Urologic,male,nurse,17612109741,6000
+393,152764,Jack,Cardiology,male,nurse,13122541527,5000
+394,181474,Geneva,Cardiology,female,doctor,18343447372,32000
+395,159076,Fawn,Burns,female,nurse,18388610504,6000
+396,171386,Gloria,Stomatology,female,doctor,18324634574,35000
+397,110701,Vivian,Pediatrics,female,nurse,18791986116,9000
+398,142145,Felix,Orthopedics,female,doctor,18861724728,32000
+399,144240,Odette,Urinary Surgery,female,nurse,18786276756,8000
+400,193623,Kendall,Hematology,male,nurse,13994376710,7000
+401,177682,Bernadette,Infection,female,doctor,19040207904,50000
+402,199885,Jane,Endocrinology,female,doctor,13665628402,40000
+403,109022,Lilly,Orthopedics,male,nurse,18881133645,9000
+404,124918,Regina,Infection,male,nurse,13679373429,7000
+405,196655,Nola,Cardiology,male,doctor,13193617079,40000
+406,123437,Anita,Cardiology,female,nurse,13877824632,9000
+407,191639,Melvina,Burns,male,nurse,18360677190,7000
+408,155514,Brooke,Hepatological Surgery,male,nurse,18798526536,9000
+409,169653,Kingsley,Gastroenterology,female,nurse,19043809420,8000
+410,137546,Spring-like,Gynecology,male,doctor,17666203400,35000
+411,110021,Graceful,Gastroenterology,male,nurse,17596044106,5000
+412,170306,Rejoicing,Orthopedics,female,doctor,18862733682,12000
+413,144667,Eddie,General Surgery,female,doctor,13874910090,41000
+414,110072,Mavis,Burns,male,doctor,13166141691,22000
+415,175717,Sparkling,Obstetrics,male,nurse,18800098841,8000
+416,177681,Peggy,Burns,male,nurse,13867303292,6000
+417,187884,Patriotic,Hematology,female,nurse,17548892064,5000
+418,145784,Gifford,Stomatology,male,doctor,18881913800,29000
+419,192086,Fergal,Orthopedics,male,doctor,17583870836,27000
+420,133800,Sloane,Obstetrics,female,doctor,13141745454,28000
+421,148242,Ida,Infection,female,doctor,17555580223,49000
+422,123547,Darlene,Dermatology,male,nurse,17652914800,5000
+423,117334,Stuart,Pediatrics,female,doctor,18363516339,39000
+424,151436,Matilda,Obstetrics,female,doctor,19055529536,25000
+425,119552,Precious,Urinary Surgery,male,nurse,18762763383,8000
+426,157912,Ruler,Dermatology,female,nurse,13108874392,8000
+427,184375,Todd,Burns,female,doctor,13940263083,43000
+428,187715,Samson,Cardiology,female,doctor,18775802219,26000
+429,130519,Dominic,Gastroenterology,male,nurse,13861739865,7000
+430,188360,Georgiana,General Surgery,male,doctor,18785678000,39000
+431,129306,Janet,Orthopedics,male,nurse,19061322068,5000
+432,106989,Silas,Gynecology,female,doctor,17687233173,28000
+433,174987,Doyle,Urologic,female,nurse,13910614078,7000
+434,171820,Jesse,Pediatrics,male,nurse,17582600611,6000
+435,182814,Nessa,Neurology,female,nurse,18701396490,9000
+436,148292,Half-Dane,Cardiology,male,doctor,18362668159,30000
+437,140651,Mariner,Neurology,female,nurse,13961140913,8000
+438,116630,Sigmund,Urologic,female,doctor,18710988290,21000
+439,110476,Dean,Neurosurgery,female,doctor,13939100738,17000
+440,102438,Nigel,Pediatrics,female,nurse,17593709814,9000
+441,136672,Eric,Orthopedics,female,doctor,13889808269,37000
+442,175541,Beryl,General Surgery,female,nurse,18385771404,5000
+443,178369,Nessia,Obstetrics,male,nurse,13908282414,6000
+444,121342,Thalia,Neurology,female,nurse,18345697654,5000
+445,160370,Nerissa,Burns,male,nurse,13122382378,7000
+446,134099,Kara,Stomatology,male,nurse,13681425697,8000
+447,105182,Evelyn,Urologic,male,nurse,18845089958,9000
+448,130772,Liza,Neurosurgery,male,doctor,17659770036,24000
+449,196172,Maisie,Otolaryngolog,male,nurse,13993479314,5000
+450,165926,Ferris,Neurology,female,nurse,13831297933,8000
+451,146014,Griswold,Stomatology,male,nurse,19076084624,8000
+452,133670,Brigid,Infection,male,nurse,19027593687,6000
+453,169747,Dillon,Respiratory Medicine,female,nurse,18834963641,7000
+454,116661,Wonderful,Otolaryngolog,female,doctor,18784189372,45000
+455,191887,Halden,Orthopedics,female,nurse,13990367896,10000
+456,161090,Grover,Neurosurgery,female,nurse,18317573963,9000
+457,160093,Lucia,Endocrinology,female,nurse,18879686431,7000
+458,181417,Felicia,Gynecology,female,nurse,19058831837,6000
+459,127490,Gabrielle,Neurology,female,nurse,13800722761,7000
+460,197434,Roderick,Cardiology,male,nurse,13966273449,9000
+461,162232,Queenie,Otolaryngolog,female,doctor,13678365462,31000
+462,126366,Anastasia,Stomatology,male,nurse,18868911296,6000
+463,183017,Magda,Infection,female,doctor,17509695745,44000
+464,184449,Famous,Otolaryngolog,male,doctor,17572627964,44000
+465,152968,Harriet,Respiratory Medicine,female,nurse,18381199345,5000
+466,190056,Beloved,Infection,male,doctor,17639777340,25000
+467,141165,Zera,Hepatological Surgery,female,doctor,18319224512,22000
+468,153544,Hal,Pediatrics,male,nurse,13105482734,8000
+469,184132,Peacemaker,Gynecology,male,doctor,19013638930,48000
+470,143844,Samantha,Orthopedics,male,nurse,18341871172,5000
+471,125907,Unwin,Neurosurgery,female,nurse,13984704817,5000
+472,109043,Travis,Stomatology,male,doctor,13991884264,30000
+473,168289,Nadia,Dermatology,male,nurse,13951678664,7000
+474,143055,Ives,Gastroenterology,male,doctor,18791638804,26000
+475,164677,Tara,Dermatology,male,nurse,17683934184,10000
+476,112064,Delightful,Burns,female,nurse,18312693312,9000
+477,135620,Marilyn,Pediatrics,female,doctor,13861441565,22000
+478,185082,Ernest,Hematology,male,nurse,19015215899,9000
+479,125091,Ethanael,Dermatology,male,nurse,17539379161,6000
+480,192914,Sparrow,Hematology,male,doctor,18724704047,37000
+481,129247,Drew,Urologic,female,doctor,18835686928,47000
+482,183041,Dominique,Urologic,female,nurse,13826105333,10000
+483,127332,Tower,Neurology,male,nurse,18720106478,9000
+484,112614,Maddox,Urinary Surgery,male,nurse,13831131044,9000
+485,150463,Marnia,Pediatrics,female,doctor,13932258649,33000
+486,123875,Free,Burns,male,doctor,13110337758,39000
+487,128989,Belle,Endocrinology,male,nurse,19051636540,10000
+488,157485,Tilda,Endocrinology,male,nurse,18722032636,8000
+489,109005,Rebecca,Hepatological Surgery,male,doctor,19004483224,37000
+490,124924,Lois,Urologic,female,doctor,19001129584,16000
+491,193774,Elbert,Dermatology,male,nurse,13841696782,9000
+492,188777,Virtuous,Neurology,male,doctor,13803498032,11000
+493,195009,Wolf,Neurosurgery,female,doctor,17508789010,41000
+494,169476,Elijah,Burns,male,nurse,17584813868,6000
+495,121266,Leo,Gynecology,male,doctor,13806412290,14000
+496,120502,Hanna,Dermatology,male,nurse,17648302376,6000
+497,183691,Attendant,Gastroenterology,female,doctor,13142252895,16000
+498,149971,Mark,Burns,female,doctor,19011378027,49000
+499,120753,Ivan,Urologic,male,nurse,13879013641,8000
+500,176886,Lovely,Pediatrics,male,doctor,13944247732,38000
+501,177299,Melissa,Dermatology,female,nurse,13188382756,5000
+502,120295,Jeanne,Dermatology,male,nurse,17575297396,6000
+503,109351,Erik,Hematology,female,doctor,13133105781,44000
+504,159929,Vita,Urinary Surgery,female,nurse,13152687519,8000
+505,198510,Winthrop,Burns,male,nurse,13841771174,8000
+506,142436,Fitzgerald,Respiratory Medicine,male,nurse,13995989640,6000
+507,185241,Lane,Neurology,male,doctor,18715525881,32000
+508,140565,Frederica,Dermatology,male,nurse,18374144929,7000
+509,179561,Kimball,Urologic,male,doctor,13675527121,16000
+510,197924,Seaman,Burns,male,nurse,13835959782,9000
+511,120450,Kilby,Neurology,female,doctor,19086662863,43000
+512,188817,Howard,Pediatrics,female,nurse,18778546749,8000
+513,133875,Orlena,Cardiology,male,doctor,18786004452,42000
+514,146714,Divine,Gynecology,male,doctor,18836032648,23000
+515,194215,Priscilla,Cardiology,male,doctor,19097900768,38000
+516,132211,Winona,Gynecology,male,doctor,17552318781,36000
+517,140981,Idelle,Pediatrics,female,doctor,18751571845,41000
+518,112086,Rita,Orthopedics,male,doctor,17685089352,40000
+519,127659,Yolanda,Hematology,male,doctor,13634405037,34000
+520,144879,Happy,Infection,female,nurse,13981024842,9000
+521,113023,Katherine,Respiratory Medicine,male,doctor,18340893225,50000
+522,188851,Enoch,Infection,female,nurse,17697580982,10000
+523,117164,Industrious,Hepatological Surgery,female,nurse,18824064488,7000
+524,111321,Konrad,Respiratory Medicine,male,doctor,13617191604,49000
+525,164957,Wylie,Orthopedics,female,nurse,13694537092,9000
+526,195914,Godwin,Burns,male,doctor,13818502082,33000
+527,166288,Leith,Pediatrics,female,doctor,19008089856,15000
+528,196349,Fenton,Cardiology,male,doctor,19052814494,15000
+529,131972,Hall,Hepatological Surgery,male,doctor,18879235757,25000
+530,142667,Ariana,Cardiology,male,nurse,19069957449,10000
+531,126840,Minerva,Urinary Surgery,male,doctor,13935198781,23000
+532,194822,Rosanne,Endocrinology,female,doctor,18795655187,46000
+533,152726,Derek,Neurosurgery,male,doctor,18750759464,37000
+534,118965,Eagle-Eyed,General Surgery,male,doctor,13108542814,34000
+535,110567,Ulva,Obstetrics,male,doctor,18828566726,46000
+536,128754,Joyce,Neurology,female,nurse,13102179602,8000
+537,108734,Delight,Gastroenterology,male,nurse,13883636771,10000
+538,183496,Sacha,Cardiology,male,doctor,18328118695,12000
+539,185334,Diana,Pediatrics,female,nurse,13820723156,6000
+540,163849,Mandy,General Surgery,female,doctor,17651925087,37000
+541,197894,Earl,Burns,female,nurse,13930852139,6000
+542,112682,Tamara,Stomatology,female,nurse,18340386090,9000
+543,100319,Royce,Stomatology,female,doctor,13822920081,23000
+544,109729,Dark-Haired,Dermatology,male,doctor,13181973678,22000
+545,193691,Nadine,Urologic,male,nurse,18725970476,10000
+546,151599,Luciana,Gynecology,male,doctor,17600194122,24000
+547,140508,Andrea,Endocrinology,female,doctor,17514398551,27000
+548,138087,Brenda,Burns,male,doctor,17679417698,37000
+549,156679,Rhett,Hematology,male,doctor,13136581510,39000
+550,108593,Marissa,Dermatology,female,doctor,13887239141,35000
+551,135559,Quincy,General Surgery,female,nurse,13622566661,10000
+552,101597,Church,Endocrinology,male,doctor,18321222143,49000
+553,135671,Joanna,Pediatrics,male,doctor,13122998444,25000
+554,144405,Sherman,Stomatology,female,nurse,18766396575,7000
+555,172979,Oprah,Urologic,male,doctor,18843535781,35000
+556,184660,Britney,Neurosurgery,male,nurse,18876265996,7000
+557,187027,Black,General Surgery,male,nurse,13194371213,5000
+558,178693,Emerson,Cardiology,male,nurse,13171315503,6000
+559,198148,Guinevere,Burns,female,nurse,13874119040,8000
+560,160844,Keene,Urinary Surgery,male,nurse,13140148354,7000
+561,154597,Nina,Gynecology,male,nurse,18723759230,7000
+562,157122,Tracy,Orthopedics,male,nurse,18755596497,8000
+563,150285,Wesley,Stomatology,female,nurse,18810184664,5000
+564,188380,Harvester,Hematology,female,doctor,17605759376,22000
+565,144024,Ethel,Urinary Surgery,female,doctor,13618171776,21000
+566,134581,Desmond,Endocrinology,male,doctor,13131988485,35000
+567,126789,Red-Haired,Gynecology,female,doctor,13148458528,25000
+568,108572,Kingly,Neurosurgery,female,doctor,19063213206,25000
+569,199318,Verda,Urinary Surgery,female,doctor,17566306484,33000
+570,106291,Sandra,Obstetrics,male,doctor,18767016241,26000
+571,135599,Vaughan,Stomatology,female,doctor,13851417750,22000
+572,180418,Mabel,Urinary Surgery,male,doctor,13676026858,46000
+573,149118,Patty,Neurosurgery,male,doctor,17586691064,41000
+574,101435,Peaceful,Gastroenterology,female,nurse,18324140582,7000
+575,179706,Dalton,Respiratory Medicine,male,doctor,13982500485,32000
+576,188787,Goddard,Urologic,female,nurse,19096472274,8000
+577,161208,Page,Gynecology,male,nurse,18387477894,5000
+578,171081,Strawberry,Endocrinology,female,nurse,13984195380,10000
+579,188924,Great,Burns,male,doctor,17510766951,28000
+580,105405,Mildred,Obstetrics,female,doctor,18734364065,27000
+581,165207,Rosa,Dermatology,male,nurse,13953353741,7000
+582,167040,Warlike,Obstetrics,male,nurse,13612465876,5000
+583,174487,Steadfast,Infection,male,nurse,17590920276,6000
+584,114181,Grayson,Gynecology,male,doctor,18707392213,11000
+585,103028,Octavia,Cardiology,female,doctor,18746616722,16000
+586,122515,Dennis,Dermatology,female,doctor,17608353530,25000
+587,126902,Articulate,Endocrinology,male,nurse,13820185955,10000
+588,193202,Elfin,Infection,male,doctor,17606737562,49000
+589,124354,Elise,Dermatology,female,nurse,19075869699,9000
+590,151738,Vigour,Respiratory Medicine,male,nurse,17502299097,7000
+591,183406,Garrick,Respiratory Medicine,female,nurse,18862789081,9000
+592,168964,Falkner,Burns,male,doctor,13949787707,17000
+593,125838,Fair-Haired,Stomatology,male,doctor,13624166129,42000
+594,151982,Dark,Urinary Surgery,male,nurse,19031370074,9000
+595,153599,Ulrica,Pediatrics,male,nurse,17584786300,8000
+596,194263,Pandora,Burns,female,nurse,17684884423,8000
+597,100597,Juliet,Pediatrics,female,nurse,17530357622,8000
+598,121286,Ethen,General Surgery,male,doctor,13939738284,42000
+599,141076,Wallace,Obstetrics,female,nurse,18354720694,6000
+600,103530,Gilbert,Burns,female,nurse,13973148189,9000
+601,118727,Horace,Otolaryngolog,male,nurse,13196413567,6000
+602,181657,Dwight,Respiratory Medicine,female,doctor,17585838640,45000
+603,178476,Solitary,Neurology,female,nurse,13936104676,10000
+604,133812,Kerri,Orthopedics,female,nurse,18305186549,8000
+605,122733,Mora,Orthopedics,female,nurse,13132009674,7000
+606,108873,Lynn,Dermatology,male,doctor,18776042237,30000
+607,118851,Vance,Obstetrics,male,nurse,13667478576,6000
+608,145317,Eudora,Burns,male,nurse,17598141695,8000
+609,197912,Hubert,Respiratory Medicine,male,nurse,17567095608,6000
+610,188646,Elizabeth,Burns,female,doctor,18354987982,14000
+611,133797,Josephine,Neurosurgery,female,nurse,19098777603,9000
+612,118086,Orva,Endocrinology,female,doctor,13803928773,24000
+613,165566,Kelsey,Orthopedics,female,nurse,18874318005,5000
+614,196705,Fiery,Burns,male,nurse,13989677929,6000
+615,183501,Whitney,Hematology,female,nurse,13674115691,5000
+616,121658,Marie,Gastroenterology,male,doctor,18333417282,49000
+617,198486,Maura,Urinary Surgery,female,nurse,17676315566,10000
+618,123297,Nathania,Obstetrics,female,doctor,13848915628,25000
+619,163807,Ula,Gastroenterology,male,nurse,13888082365,5000
+620,196421,Mark,Burns,female,nurse,18844430478,7000
+621,188790,Dwayne,Infection,male,nurse,18713466546,7000
+622,114428,Jerome,Neurosurgery,male,doctor,18780476533,50000
+623,183844,Kirstyn,Burns,female,nurse,19082952522,10000
+624,116939,Lucy,Urologic,female,nurse,17668423681,10000
+625,169628,Kerry,Stomatology,female,doctor,13135894570,19000
+626,163999,Hadwin,Urinary Surgery,male,nurse,13643192335,10000
+627,133298,Fairfax,Stomatology,female,nurse,17671015812,6000
+628,124047,Trustworthy,Burns,male,nurse,17640110697,10000
+629,176696,Edmond,Infection,male,doctor,19056433319,41000
+630,137983,Tanya,Respiratory Medicine,male,doctor,17643400839,41000
+631,133989,Mountain,Cardiology,male,doctor,13673039442,47000
+632,101140,Jimmy,Stomatology,male,nurse,13110594747,6000
+633,138860,Quinella,Gynecology,male,doctor,18854967393,35000
+634,112879,Keith,Gynecology,female,nurse,17511098282,10000
+635,140958,Faye,Endocrinology,female,doctor,19070791382,37000
+636,118456,Thomas,Burns,male,nurse,18804248924,10000
+637,166998,Exalted,Orthopedics,male,doctor,17667201752,24000
+638,187668,Leanne,Orthopedics,male,doctor,13966017495,43000
+639,169554,Butterfly,General Surgery,male,nurse,13863174831,5000
+640,181671,Ursa,Burns,female,nurse,17591120681,7000
+641,104602,Roger,Otolaryngolog,female,nurse,13876416478,6000
+642,182354,Tatum,Dermatology,female,doctor,17538312378,29000
+643,173439,Quentin,General Surgery,female,doctor,17528645440,30000
+644,143457,Gemstone,Neurosurgery,male,nurse,18777615307,8000
+645,109272,Guardian,Gastroenterology,female,doctor,13689650663,40000
+646,103528,Gwynne,Orthopedics,female,nurse,18882050083,6000
+647,137488,Noble,Endocrinology,male,nurse,13864671749,10000
+648,151151,Ethan,Endocrinology,male,doctor,13145825968,28000
+649,197168,Alda,Otolaryngolog,female,doctor,13636796881,26000
+650,129352,Peace,Otolaryngolog,male,nurse,13174325701,7000
+651,177517,Teri,Infection,female,doctor,13822058970,12000
+652,101298,Nursing,Urinary Surgery,female,doctor,13644105301,21000
+653,147192,Ancestress,Burns,female,nurse,19022724878,5000
+654,103291,Lighthearted,General Surgery,female,doctor,18380807346,37000
+655,125342,Handsome,Obstetrics,female,nurse,13910845232,7000
+656,113117,Francis,Gastroenterology,male,nurse,13983520027,6000
+657,165576,Counsellor,Cardiology,female,doctor,18712773141,26000
+658,144127,Sadie,Gynecology,male,nurse,13965380743,10000
+659,147487,Edric,General Surgery,male,nurse,17607202252,8000
+660,111459,Thunder,Cardiology,female,doctor,13875091100,28000
+661,163739,Quintessa,Stomatology,male,doctor,13658362296,40000
+662,140585,Amanda,Gynecology,male,doctor,17615154003,24000
+663,137420,Igor,Infection,female,doctor,13611206573,44000
+664,107426,Robust,Orthopedics,female,nurse,13119337998,6000
+665,160559,Bethany,Neurosurgery,male,nurse,17584991007,6000
+666,100449,Gerald,Urinary Surgery,male,nurse,18755856987,5000
+667,144860,Soldier,Neurology,male,doctor,13902655805,24000
+668,130890,Emma,Urinary Surgery,female,nurse,18894682211,6000
+669,165792,Harrison,Dermatology,male,nurse,19039029678,10000
+670,164525,Grateful,Cardiology,male,nurse,18745973170,5000
+671,156270,Pearl,Obstetrics,female,nurse,18726542969,5000
+672,173067,Lively,Neurology,male,doctor,13942118295,21000
+673,139351,Kelvin,Hepatological Surgery,female,nurse,19065557360,7000
+674,170979,Strength,Neurosurgery,male,doctor,17514205733,23000
+675,161089,One,General Surgery,male,doctor,17671688039,45000
+676,183839,Noblewoman,Urologic,female,nurse,13895539884,9000
+677,116310,Tyler,Urinary Surgery,female,doctor,13197423736,15000
+678,144284,Echo,Burns,female,doctor,17598352075,12000
+679,161486,Tasha,Gastroenterology,female,nurse,13191578063,9000
+680,118969,Philippa,Neurology,male,doctor,13640239662,12000
+681,192801,Quimby,Endocrinology,female,nurse,13970063497,7000
+682,185289,Luther,Gynecology,male,nurse,13923255416,7000
+683,190101,Warrior,Infection,male,doctor,13838815592,22000
+684,110726,Warrior,Neurology,male,doctor,17604181982,22000
+685,159001,Tammy,Obstetrics,female,doctor,13941720071,13000
+686,124102,Marlon,Respiratory Medicine,male,doctor,13103303833,26000
+687,137093,Lindsay,Neurology,female,doctor,17602808001,47000
+688,127570,Victoria,Hepatological Surgery,male,doctor,18348118916,25000
+689,193938,Norseman,Stomatology,female,nurse,18709446474,8000
+690,146496,Sheila,Urologic,female,nurse,18842993179,8000
+691,117980,Egil,Neurosurgery,male,nurse,13910568055,7000
+692,138033,Georgette,Hematology,female,doctor,19024140214,45000
+693,160448,Miles,Hepatological Surgery,female,nurse,17587317236,10000
+694,139033,Salome,Stomatology,male,nurse,17544414055,7000
+695,159163,Keaton,Respiratory Medicine,female,doctor,18821357721,28000
+696,169244,Nightingale,Stomatology,male,doctor,17680465236,12000
+697,138847,Otis,Hematology,female,doctor,13607317701,14000
+698,148727,Wilbur,Infection,female,doctor,18726273325,36000
+699,164669,Sibyl,Stomatology,male,nurse,18320273817,9000
+700,101304,Bright,Orthopedics,female,doctor,19079466921,18000
+701,179681,Great,Cardiology,female,nurse,18833884502,9000
+702,141144,Gifted,Hepatological Surgery,male,doctor,18810243106,45000
+703,194693,Harmony,Hematology,male,doctor,13840334418,50000
+704,138268,Thresher,Dermatology,male,nurse,19049554576,10000
+705,119613,Horatio,Hepatological Surgery,female,nurse,13973332309,7000
+706,173816,Tess,Stomatology,male,doctor,18382259325,38000
+707,156398,Alice,Urologic,female,nurse,18730545090,9000
+708,115192,Elias,Gastroenterology,female,doctor,19088129502,50000
+709,114558,Torrent,Stomatology,female,doctor,13602492256,35000
+710,181061,Delilah,Gynecology,female,doctor,13865919541,39000
+711,189797,Opal,Cardiology,male,doctor,18751058209,35000
+712,158142,Galvin,Otolaryngolog,female,nurse,13845732238,7000
+713,199011,Martin,Obstetrics,female,nurse,18839500134,7000
+714,185844,Lloyd,Obstetrics,female,doctor,17560001266,48000
+715,185745,Nell,Gynecology,male,nurse,17673979139,7000
+716,144268,Louise,Neurosurgery,male,doctor,17560188513,43000
+717,192925,Kilian,Cardiology,female,nurse,13865787721,10000
+718,131176,Fighter,Urologic,female,nurse,18355387759,8000
+719,125461,Elga,Cardiology,female,nurse,18773993037,10000
+720,133226,Eliot,Hematology,male,doctor,13978596024,23000
+721,167683,Jade,Otolaryngolog,male,doctor,13871662459,24000
+722,134289,Hardy,Urinary Surgery,male,nurse,18829723286,10000
+723,168236,Monica,Orthopedics,male,nurse,18759498432,8000
+724,149844,Willa,Dermatology,male,nurse,18397074954,5000
+725,176750,Olaf,Gastroenterology,female,doctor,18821366581,49000
+726,125773,Hattie,Hepatological Surgery,male,doctor,19053204508,34000
+727,121198,Reginald,Stomatology,male,doctor,13621447337,24000
+728,163116,Flora,Gastroenterology,female,doctor,18318157911,42000
+729,196792,Germaine,Endocrinology,female,nurse,17676366962,5000
+730,158599,Princess,Infection,female,nurse,13604638433,9000
+731,140417,Fabian,Pediatrics,female,doctor,13861893045,42000
+732,140926,Norine,Gastroenterology,male,nurse,19055746288,6000
+733,127555,Ferguson,General Surgery,male,doctor,13892890649,24000
+734,120221,Frederick,Hematology,female,doctor,13875046944,35000
+735,141917,June,Gynecology,female,doctor,19089170701,46000
+736,102065,Loralie,Neurosurgery,male,doctor,19090877536,20000
+737,118942,Nathaniel,Obstetrics,male,nurse,17670543040,5000
+738,117207,Eileen,Cardiology,female,doctor,19011557488,44000
+739,143816,Simon,Hepatological Surgery,female,nurse,13991650099,5000
+740,114853,Relic,Neurosurgery,male,doctor,13958979295,34000
+741,133254,Handmaiden,Urologic,male,nurse,13197770526,5000
+742,108819,Hamlin,Pediatrics,female,doctor,13191330524,45000
+743,171974,Margaret,Otolaryngolog,female,doctor,17515427997,21000
+744,174932,William,Respiratory Medicine,male,nurse,13608888447,9000
+745,133194,Harry,Urologic,male,nurse,18852307774,9000
+746,178645,Gentle,Orthopedics,female,doctor,13178661268,19000
+747,174453,Lawyer,General Surgery,female,doctor,18392236161,48000
+748,165679,Stefan,Endocrinology,female,nurse,13696050636,9000
+749,160870,Alina,Cardiology,male,doctor,13806785878,25000
+750,135424,Norma,Obstetrics,female,doctor,13953419315,14000
+751,192907,Raymond,Stomatology,male,doctor,18313093632,48000
+752,191765,Spencer,Hepatological Surgery,male,nurse,13901506386,10000
+753,112671,Thea,Respiratory Medicine,female,nurse,13692805755,10000
+754,174634,Sidney,Pediatrics,female,nurse,13683699493,7000
+755,123688,Geraldine,Cardiology,male,doctor,13605738976,36000
+756,193495,Sybil,Otolaryngolog,male,nurse,18357163403,8000
+757,167187,Grace,Cardiology,female,doctor,17677657565,40000
+758,160984,Zea,Pediatrics,female,doctor,18330207507,29000
+759,123276,Warren,Cardiology,male,doctor,17630305774,40000
+760,103880,Declan,Gynecology,female,doctor,19042979528,38000
+761,111214,Freda,Obstetrics,male,nurse,13118786085,8000
+762,112735,Davida,Urinary Surgery,female,doctor,18757843525,12000
+763,158847,Effie,Gastroenterology,male,nurse,19083889764,10000
+764,141827,Duncan,Neurology,female,nurse,13693195294,10000
+765,121099,Rupert,General Surgery,male,doctor,17525433454,44000
+766,186786,Bertina,General Surgery,male,doctor,18344811888,41000
+767,122947,Ely,Infection,female,nurse,17503605501,5000
+768,121215,Drucilla,General Surgery,male,doctor,18725314525,23000
+769,105034,Troy,Stomatology,male,doctor,13180744098,41000
+770,145844,Paula,Hepatological Surgery,female,doctor,18718319299,45000
+771,120680,Searcher,Pediatrics,male,nurse,18326937330,5000
+772,102884,Alexandra,Gastroenterology,female,doctor,13641349341,12000
+773,137499,Red,Cardiology,male,nurse,19094726083,5000
+774,148545,Prosperous,Neurology,female,doctor,13128387069,39000
+775,192675,Sunshine,Pediatrics,male,nurse,19081841268,9000
+776,100128,Graham,Obstetrics,male,doctor,13864109372,34000
+777,179022,Jed,Hematology,male,nurse,18703286789,6000
+778,141687,Briana,Infection,female,doctor,19021448347,19000
+779,120160,Dorian,Cardiology,male,nurse,13862287587,9000
+780,181925,Quade,Pediatrics,male,doctor,18701417974,42000
+781,169254,Hazel,Dermatology,female,doctor,19016819245,23000
+782,117558,Compassionate,Neurology,male,nurse,17615400729,10000
+783,151898,Gardner,Hematology,male,nurse,13665229890,8000
+784,145477,Kent,Pediatrics,male,nurse,13873283465,7000
+785,138276,Leslie,Neurology,male,doctor,13133815344,32000
+786,185079,Leroy,Obstetrics,male,doctor,13913741422,33000
+787,146869,Fletcher,Burns,male,doctor,17513624394,11000
+788,163454,Perry,Endocrinology,female,doctor,18765477162,32000
+789,180990,Dirk,Neurosurgery,male,nurse,18759343801,10000
+790,115066,Robert,Neurology,female,nurse,18353666928,8000
+791,145701,Pansy,Burns,female,nurse,17606380247,5000
+792,147446,Olivia,Orthopedics,male,doctor,13884386849,17000
+793,134875,Forest,Infection,female,doctor,18322381643,39000
+794,184564,Annabelle,Neurosurgery,male,nurse,17506711764,10000
+795,160291,Quillan,Pediatrics,female,nurse,18870456538,9000
+796,120079,Frank,Endocrinology,male,doctor,13115437198,21000
+797,113438,Eunice,Respiratory Medicine,female,nurse,18344310555,5000
+798,155344,Lara,Pediatrics,female,nurse,17561423031,7000
+799,177134,Sally,Gastroenterology,female,nurse,18776485697,5000
+800,180359,Ivy,Gynecology,male,nurse,13103104352,6000
+801,142260,Beneficient,Respiratory Medicine,male,doctor,17523141041,41000
+802,147644,Zane,Burns,female,doctor,13626759405,48000
+803,199155,Philomena,Hematology,male,nurse,13845510503,5000
+804,158092,Theodora,Hepatological Surgery,female,nurse,13824429004,8000
+805,118357,Serena,Burns,male,nurse,17590149130,5000
+806,195222,Michael,Endocrinology,female,doctor,18704989737,14000
+807,171061,Myrrh,Gynecology,male,doctor,17699369129,33000
+808,161780,Loveable,Gynecology,female,doctor,13113049262,24000
+809,178547,Livia,Hematology,female,nurse,17601834872,10000
+810,119854,Henrietta,Burns,male,doctor,19053918203,49000
+811,126567,Fara,Gynecology,female,doctor,13901808341,14000
+812,102128,Gilda,Cardiology,male,doctor,13963167382,17000
+813,148846,Vernon,Neurosurgery,male,nurse,18745282329,5000
+814,187979,Hunter,Hematology,female,doctor,18706928950,12000
+815,173049,Barbara,Hematology,male,doctor,13121023416,34000
+816,185365,Willow,Obstetrics,female,nurse,13935671182,8000
+817,107894,Valda,Gastroenterology,female,nurse,18317557512,9000
+818,113885,Denise,General Surgery,male,nurse,18836214949,7000
+819,159248,Just,Urinary Surgery,female,nurse,17605970307,8000
+820,150711,Haley,Urinary Surgery,male,doctor,18342049489,47000
+821,134587,Dale,Obstetrics,male,doctor,13866416133,20000
+822,132857,Firm,Obstetrics,male,nurse,13944576970,10000
+823,176819,Montague,Obstetrics,female,nurse,13620930506,8000
+824,182833,George,Cardiology,male,nurse,13879807941,7000
+825,171079,Rufus,Endocrinology,male,nurse,19002348299,9000
+826,104704,Tuesday,Urinary Surgery,female,doctor,19041352544,37000
+827,172699,Wenda,Respiratory Medicine,male,nurse,13820419256,6000
+828,184327,Shawn,Dermatology,female,doctor,13663305958,13000
+829,154091,Robin,Gastroenterology,male,nurse,13959088569,9000
+830,123770,Noelle,Stomatology,female,nurse,17666834736,9000
+831,118026,Heathcliff,Urologic,female,nurse,19093530673,6000
+832,116401,Endurance,Hepatological Surgery,female,nurse,17561641568,5000
+833,113059,Lombard,Obstetrics,male,nurse,13130325351,10000
+834,132571,Harley,Stomatology,female,nurse,17501262663,10000
+835,134853,Mercy,General Surgery,female,doctor,18310113267,12000
+836,105945,Bettina,Dermatology,male,nurse,13968982033,9000
+837,175378,Hannah,Urinary Surgery,female,nurse,13846221462,10000
+838,107727,Beloved,Neurology,male,doctor,13162518496,32000
+839,167403,Kayla,Stomatology,male,nurse,18721920484,9000
+840,182590,Woodsman,Neurology,female,nurse,18764319181,8000
+841,195813,Veronica,Dermatology,female,nurse,17557989543,7000
+842,126401,Fern,Gastroenterology,female,doctor,18707962472,32000
+843,132794,Annette,Dermatology,female,doctor,18377805274,16000
+844,194916,Primavera,Gynecology,female,doctor,13955745050,47000
+845,149679,Edith,Cardiology,female,doctor,18778619581,50000
+846,160586,Stewart,Hematology,female,doctor,13603686576,19000
+847,116154,Helen,Urinary Surgery,female,nurse,17540551478,7000
+848,118087,Muriel,Neurosurgery,female,doctor,17636085835,50000
+849,160278,John,General Surgery,male,doctor,13944750217,15000
+850,150071,Rex,Hepatological Surgery,male,nurse,13860972019,8000
+851,104751,Beverly,Pediatrics,male,nurse,19027950965,7000
+852,159451,Nimble,Obstetrics,male,nurse,13687336657,5000
+853,122696,Fire,Pediatrics,female,doctor,13621881842,26000
+854,127807,Prunella,Respiratory Medicine,male,doctor,13126364163,13000
+855,163627,Solomon,Respiratory Medicine,male,nurse,13995020334,5000
+856,165868,Beautiful,Respiratory Medicine,female,doctor,18784137986,17000
+857,196140,Jarvis,Orthopedics,female,nurse,19029186188,9000
+858,190373,Gazelle,Stomatology,female,nurse,13933648764,9000
+859,107441,Victorious,Pediatrics,female,doctor,13838048602,31000
+860,163661,Margot,Endocrinology,male,nurse,18852032122,7000
+861,160717,Marian,Urinary Surgery,female,nurse,13989962173,9000
+862,139953,Maiden,Neurology,male,doctor,13875006213,46000
+863,175056,Floyd,Endocrinology,female,doctor,19025505601,25000
+864,145358,Aimee,Pediatrics,female,nurse,13144707543,6000
+865,109856,Merle,Otolaryngolog,male,doctor,18746718234,49000
+866,159237,Joseph,Neurosurgery,female,nurse,13184633670,5000
+867,114409,Famous,Urologic,male,doctor,13918437002,49000
+868,111174,Maggie,General Surgery,male,nurse,13654179036,9000
+869,196571,Gregory,Dermatology,female,doctor,17529777427,15000
+870,173548,Ursula,Neurosurgery,male,nurse,13945332645,10000
+871,171931,Laverna,Stomatology,male,doctor,19000591807,32000
+872,144787,Melville,Cardiology,male,nurse,19009663764,7000
+873,108061,Keely,Burns,male,doctor,13627855638,46000
+874,105613,Patience,Neurology,female,doctor,17654216791,39000
+875,127714,Esmond,Dermatology,male,nurse,17643213358,8000
+876,174304,Durwin,Cardiology,male,doctor,13133130805,17000
+877,171502,Estelle,Gynecology,female,doctor,13153749054,49000
+878,131761,Morris,Infection,female,nurse,18306451795,5000
+879,137978,Ken,Urinary Surgery,male,doctor,13905214784,43000
+880,178167,Madge,Orthopedics,female,doctor,13124656408,23000
+881,171187,Molly,Stomatology,male,doctor,17560829339,43000
+882,165486,Abigail,Obstetrics,female,doctor,13605297598,19000
+883,113460,Ivory,Hematology,male,nurse,17554103715,8000
+884,117368,Shelley,Neurology,female,nurse,13823428869,7000
+885,120719,Katrina,Hepatological Surgery,female,nurse,19046328808,5000
+886,146361,Kirk,Pediatrics,female,nurse,13863550367,10000
+887,172427,Maria,General Surgery,male,nurse,19064615131,10000
+888,162763,Eva,Pediatrics,male,nurse,18838987490,10000
+889,165107,Gabriel,Neurosurgery,female,doctor,13931751340,36000
+890,151916,Erika,Infection,male,nurse,18332520053,9000
+891,188702,Ronald,Obstetrics,male,doctor,13199361991,15000
+892,158940,Rosalind,Neurology,male,doctor,13122136225,36000
+893,158894,Belinda,Stomatology,male,doctor,18704725365,25000
+894,189178,Frances,Gynecology,male,doctor,18854625069,34000
+895,109917,Percival,General Surgery,male,doctor,17694636270,18000
+896,142710,Roxanne,Respiratory Medicine,male,nurse,17618219010,10000
+897,178146,Star,Dermatology,female,doctor,17599663969,31000
+898,163323,Estra,Respiratory Medicine,male,nurse,17673259135,6000
+899,179572,Victor,Dermatology,female,nurse,13107866485,7000
+900,138895,Toby,Hematology,female,doctor,18370295856,27000
+901,182117,Shining,Burns,female,nurse,13831317991,7000
+902,177138,Nancy,Pediatrics,male,doctor,13868116966,33000
+903,100874,Janice,Infection,male,nurse,13842056543,7000
+904,117287,Joy,Gastroenterology,female,nurse,13820063318,7000
+905,154172,Ralph,General Surgery,female,nurse,17531552889,10000
+906,154825,Eli,Orthopedics,female,nurse,17562859738,5000
+907,118047,Murray,Orthopedics,female,nurse,13917360386,6000
+908,146049,Sherard,Neurology,male,doctor,19027811271,39000
+909,166468,Gillian,Infection,female,doctor,17637083863,45000
+910,122424,Zebediah,Neurology,male,nurse,18786479264,10000
+911,113076,Isaac,Gynecology,female,nurse,18897634353,9000
+912,108891,Lizzie,Stomatology,female,nurse,13926905233,10000
+913,141743,Kay,Hepatological Surgery,female,nurse,17524548155,6000
+914,172670,Glorious,Hematology,female,nurse,17531788697,9000
+915,188744,Nonfriend,Respiratory Medicine,male,doctor,17535332959,14000
+916,189903,Iver,Pediatrics,male,nurse,13108255496,10000
+917,112801,Faithful,Gastroenterology,male,doctor,17508534462,12000
+918,184560,Theobold,Urinary Surgery,male,nurse,18801341035,6000
+919,165636,United,Stomatology,male,doctor,13192391508,14000
+920,112523,Fiona,Dermatology,female,doctor,13814913678,34000
+921,102388,Lars,Hematology,female,nurse,18805484675,6000
+922,167644,Dexter,Gynecology,female,nurse,13918680100,7000
+923,140578,Humble,Respiratory Medicine,male,doctor,17579033614,26000
+924,173206,Landon,Neurology,male,doctor,19019280178,26000
+925,169174,Arleen,Hepatological Surgery,female,nurse,13643375455,5000
+926,110944,Forbes,Dermatology,male,doctor,17518634632,39000
+927,100482,Godly,Hematology,male,nurse,17576053400,5000
+928,191183,Nerita,Urologic,female,doctor,19007672534,35000
+929,178058,Damon,Gastroenterology,male,nurse,18357655320,10000
+930,183825,Oriel,Pediatrics,female,doctor,17660388089,25000
+931,120866,Laughter,Respiratory Medicine,male,doctor,17593283473,36000
+932,101318,Angela,Urinary Surgery,male,nurse,17663101073,7000
+933,104219,Yvette,Endocrinology,male,nurse,13109994460,8000
+934,145179,Dion,Orthopedics,male,nurse,13864064647,6000
+935,171616,Ridley,Urologic,male,nurse,18812758972,6000
+936,124067,Lucinda,Urologic,female,nurse,18801730677,8000
+937,136693,Edwin,Stomatology,male,nurse,18383713821,6000
+938,190168,Edmund,Hematology,male,doctor,19095890930,25000
+939,197366,Serene,Hepatological Surgery,male,nurse,17629326896,10000
+940,133706,Emrick,Endocrinology,female,doctor,13192959073,34000
+941,129113,Juliana,General Surgery,female,nurse,13978177971,8000
+942,105541,Glenn,Infection,male,doctor,13173534471,35000
+943,101844,Ross,Neurology,female,doctor,13988732124,32000
+944,190330,Marvin,Burns,male,doctor,13974786494,45000
+945,187963,Kim,Neurology,male,nurse,18844198807,10000
+946,145854,Timothea,General Surgery,female,doctor,17563208510,36000
+947,148192,Lester,Otolaryngolog,male,doctor,18890703643,15000
+948,181752,Queenly,Obstetrics,male,doctor,19071287017,25000
+949,151425,Edward,Obstetrics,male,doctor,18743328418,42000
+950,114316,Lauren,Obstetrics,male,doctor,13845966740,34000
+951,136078,Unity,Otolaryngolog,female,nurse,13620709099,7000
+952,114279,Michelle,Orthopedics,male,doctor,18719825845,37000
+953,185647,Lowell,Stomatology,female,doctor,13134353421,39000
+954,159208,Fox,Gynecology,male,doctor,18813302560,33000
+955,190019,Scarlett,General Surgery,female,doctor,18721690917,32000
+956,137515,Edna,Cardiology,male,nurse,13985450374,8000
+957,140291,Jemima,Stomatology,male,nurse,17618260113,8000
+958,101328,Willis,Hematology,female,nurse,13177299945,10000
+959,176542,Glynnis,Respiratory Medicine,male,nurse,13671231957,6000
+960,164460,Grain,Urologic,male,doctor,13967145529,11000
+961,153955,Norman,Otolaryngolog,female,doctor,17675751866,27000
+962,160376,Gilroy,Neurology,male,doctor,13688061267,26000
+963,170235,Griswald,Hematology,female,doctor,13802791362,16000
+964,142173,Lorelei,Neurosurgery,male,nurse,18793869911,10000
+965,157014,King,Pediatrics,female,doctor,18350371302,50000
+966,130316,Melvin,Respiratory Medicine,female,nurse,19015618970,6000
+967,183463,Ophelia,Dermatology,male,nurse,13616156191,8000
+968,178713,Wood,Endocrinology,male,doctor,19061596641,42000
+969,192430,Earthy,Cardiology,female,doctor,17538715020,35000
+970,138855,Will,Hepatological Surgery,female,nurse,18317033325,8000
+971,158456,Erin,Hepatological Surgery,female,nurse,18701812844,7000
+972,172184,Laurence,Neurology,male,doctor,13987281302,18000
+973,163916,Lillian,Infection,male,nurse,18787481341,9000
+974,154773,Small,Urologic,male,doctor,13904357057,17000
+975,153564,Bound,Hematology,male,doctor,13186065088,24000
+976,153453,Sorrowful,Gastroenterology,male,nurse,18382684752,10000
+977,120250,Strange,Pediatrics,male,doctor,13883973841,41000
+978,157880,Wilona,Neurology,female,doctor,17660554383,29000
+979,124455,Neville,Obstetrics,male,doctor,13138111633,19000
+980,187189,Listener,Endocrinology,female,nurse,13124280772,10000
+981,191481,Adelaide,Hepatological Surgery,male,doctor,19077600872,45000
+982,177253,Kendra,Otolaryngolog,female,doctor,19063925425,26000
+983,145657,Randolph,Stomatology,female,doctor,19004571091,16000
+984,140636,Lulu,Stomatology,male,doctor,13813048728,33000
+985,143433,Olive,Gastroenterology,male,doctor,19063781093,42000
+986,100427,Madeline,Otolaryngolog,female,nurse,19005047964,5000
+987,139650,Kayleigh,Urinary Surgery,female,nurse,18311457864,8000
+988,171552,Dutiful,Neurosurgery,male,nurse,18793794729,6000
+989,143974,Noel,General Surgery,male,nurse,13966530528,9000
+990,155450,Cheerful,Burns,female,doctor,17676497792,37000
+991,176910,Lame,Urinary Surgery,male,nurse,17537433273,9000
+992,111186,Regal,Orthopedics,male,doctor,17643422045,17000
+993,119680,Joan,Neurosurgery,female,nurse,18779801110,8000
+994,180332,Heather,Urinary Surgery,female,nurse,19058148104,8000
+995,164489,Farrah,General Surgery,male,nurse,17506615595,7000
+996,147332,Linda,Obstetrics,male,nurse,18766919924,7000
+997,173397,Egbert,Burns,male,nurse,18751130989,8000
+998,121602,Winston,Hematology,male,doctor,13881693769,27000
+999,150452,Tobia,Infection,male,nurse,17619924706,7000

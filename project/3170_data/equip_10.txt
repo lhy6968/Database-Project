@@ -1,0 +1,3 @@
+operating table
+operating-lamp
+monitor

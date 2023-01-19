@@ -1,0 +1,20 @@
+Respiratory Medicine Department
+Gastroenterology Department
+Urologic Department
+Cardiology Department
+Hematology Department
+Endocrinology Department
+Neurology Department
+Pediatrics Department
+Infection Department
+General Surgery Department
+Orthopedics Department
+Neurosurgery Department
+Hepatological Surgery Department
+Urinary Surgery Department
+Burns Department
+Gynecology Department
+Obstetrics Department
+Dermatology Department
+Stomatology Department
+Otolaryngology Department
